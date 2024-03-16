@@ -9,3 +9,5 @@ yarn build
 ```
 yarn start
 ```
+
+Счастливого кодинга :3
